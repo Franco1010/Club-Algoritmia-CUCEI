@@ -1,35 +1,35 @@
-title: Club Algoritmia CUCEI
-name: Franco Ramirez
-email: club.algoritmia.cucei@gmail.com
-description: THINK . SOLVE . CODE
+title: Your awesome title
+name: Your Name
+email: your-email@example.com
+description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
 baseurl: "/blog"
 url: ""
 
-parallax_image_one: assets/images/cover.png # These are the images used for the parallax background
-parallax_image_two: assets/images/cover.png
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
 
-project_one: PRUEBA
-project_one_description: AQUI ESTA MI DESCRIPCION
+project_one: "First Project"
+project_one_description: Describe your project!
 project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_one_icon: startup3.jgp
+project_one_icon: location_on
 
 project_two: Second Project
 project_two_description: Describe your project!
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: assets/images/startup3.jgp
+project_two_icon: photo_camera
 
 
 project_three: Third Project
 project_three_description: Describe your project!
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: assets/images/startup3.jgp
+project_three_icon: hotel
 
 
 project_four: Fourth Project
 project_four_description: Describe your project!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: assets/images/startup3.jgp
+project_four_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
