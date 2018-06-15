@@ -9,14 +9,15 @@
      $('.scrollspy').scrollSpy();
      $('.tap-target').tapTarget('open');
 
+
      if (localStorage.getItem('cookieconsent') === 'true') {
        $('#cookies').hide()
      }
 
+
      jQuery('#cookies').on('click', function(event) {
-            localStorage.setItem('cookieconsent', 'true')
+           localStorage.setItem('cookieconsent', 'false')
             jQuery('#cookies').toggle('hide');
        });
-
    }); // end of document ready
  })(jQuery);
