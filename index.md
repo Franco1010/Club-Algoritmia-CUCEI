@@ -3,7 +3,7 @@ title: TITULO AQUI!!
 feature_text: |
   # Club de Algoritmia CUCEI
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "http://www.frikipandi.com/wp-content/uploads/2017/01/hashcode-660x330.jpg" #"https://picsum.photos/1300/400?image=989"
+feature_image: "http://media.cubadebate.cu/wp-content/uploads/2009/10/concurso-universitario-programacion-uci-08.jpg" #"https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
