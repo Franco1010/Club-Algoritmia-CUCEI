@@ -145,7 +145,7 @@ skills:
 #  - name: zend
   - name: android
 
-icon_size: 55 # font-size of icons in px
+icon_size: 56 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
 project_button: Github
