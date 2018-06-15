@@ -5,8 +5,8 @@ description: THINK . SOLVE . CODE
 baseurl: "/blog"
 url: ""
 
-parallax_image_one: assets/images/icpc.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/icpc.jpg
+parallax_image_one: assets/images/2icpc.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/2icpc.jpg
 
 project_one: "First Project"
 project_one_description: Describe your project!
