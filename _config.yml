@@ -43,7 +43,7 @@ syntax_highlighting: true
 
 skills:
   #- name: amazonwebservices
-  - name: android
+
   #- name: angularjs
   #- name: apache
   #- name: appcelerator
@@ -142,6 +142,7 @@ skills:
 #  - name: wordpress
 #  - name: yii
 #  - name: zend
+- name: android
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
