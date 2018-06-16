@@ -3,7 +3,7 @@ name: Franco Ramirez
 email: club.algoritmia.cucei@gmail.com
 description: THINK . SOLVE . CODE
 
-baseurl: "/blog"
+baseurl: ""
 url: ""
 
 parallax_image_one: assets/images/2icpc.jpg # These are the images used for the parallax background
