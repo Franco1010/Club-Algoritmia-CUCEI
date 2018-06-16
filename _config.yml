@@ -23,13 +23,13 @@ project_two_icon: ../Club-Algoritmia-CUCEI/assets/images/leon.png
 project_three: Examenes Anteriores
 project_three_description: Describe your project!
 project_three_url: ""
-project_three_icon: hotel
+project_three_icon: ../Club-Algoritmia-CUCEI/assets/images/ea.jpg
 
 
 project_four: 1er Concurso de Programacion "Ronald L. Rivest"
 project_four_description: Describe your project!
 project_four_url: ""
-project_four_icon: restaurant
+project_four_icon: ../Club-Algoritmia-CUCEI/assets/images/rlr.jpg
 
 project_five: Fifht Project
 project_five_description: Describe your project!
