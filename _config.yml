@@ -153,6 +153,7 @@ project_button: Github
 github: https://github.com/jameshamann/jekyll-material-theme
 medium: https://medium.com
 facebook: https://facebook.com
+gmail: "mailto:club.algoritmia.cucei@gmail.com"
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
