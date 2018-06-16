@@ -15,10 +15,11 @@ project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_tl: Leer mas...
 project_one_icon: ../Club-Algoritmia-CUCEI/assets/images/logo.png
 
-project_two: Second Project
+project_two: Material de Entrenamiento
 project_two_description: Describe your project!
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
+project_two_tl: Leer mas...
+project_two_icon: ../Club-Algoritmia-CUCEI/assets/images/leon.png
 
 
 project_three: Third Project
