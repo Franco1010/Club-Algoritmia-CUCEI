@@ -11,7 +11,7 @@ parallax_image_two: assets/images/2icpc.jpg
 
 project_one: "Quienes somos?"
 project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_url: "/about/" | prepend: site.baseurl
 project_one_icon: ../Club-Algoritmia-CUCEI/assets/images/logo.png
 
 project_two: Material de Entrenamiento
