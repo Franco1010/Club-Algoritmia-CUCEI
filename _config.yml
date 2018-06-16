@@ -31,10 +31,6 @@ project_four_description: Describe your project!
 project_four_url: ""
 project_four_icon: ../Club-Algoritmia-CUCEI/assets/images/rlr.jpg
 
-project_five: Fifht Project
-project_five_description: Describe your project!
-project_five_url: ""
-project_five_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
