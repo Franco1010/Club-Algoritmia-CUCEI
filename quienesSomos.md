@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "__QUIENES SOMOS?__"
+title:  "FAQ"
 date:   2018-06-15 21:15:05 +0000
 image: /assets/images/twoscreen.jpg
 ---
