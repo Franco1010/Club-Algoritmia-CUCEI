@@ -1,45 +1,15 @@
 ---
 layout: post
-title:  "QUIENES SOMOS????"
-date:   2017-12-04 21:15:05 +0000
+title:  "Quienes somos?"
+date:   2018-06-15 21:15:05 +0000
 image: /assets/images/twoscreen.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Que es el club de algoritmia?  
+Todos aquellos que asistimos y compartimos nuestros conocimientos somos el club de algoritmia, un grupo de estudiantes y profesores que a raíz de la programación competitiva, buscamos fomentar el interés en la programación para resolver problemas  
+Todos los miércoles, presentaremos nuevos desafíos en la pagina, y publicaremos las soluciones el fin de semana o en alguna sesión  
+Quien puede y como asistir al club?  
+Pueden asistir todos aquellos interesados en la programación y en aprender mas sobre temas directamente relacionados con algoritmia y algunos temas selectos de matemáticas.
+Para asistir solo debes estar atento a esta pagina, aquí se publicaran fechas y aulas de cada sesión que se presente  
+Que se hace en el Club de Algoritmia?  
+Buscamos gente preparada para ofrecer entrenamientos, ademas de todo el conocimiento que podamos compartir entre nosotros para apoyarnos mutuamente y crecer juntos en la programación competitiva, cualquier persona es libre de explicar soluciones de sus problemas favoritos y de asistir a cualquier explicación o entrenamiento que otro estudiante desee impartir  
+-- Proximo inicio de actividades --Agosto 2018

@@ -10,7 +10,7 @@ parallax_image_one: assets/images/2icpc.jpg # These are the images used for the 
 parallax_image_two: assets/images/2icpc.jpg
 
 project_one: "Quienes somos?"
-project_one_description: Describe your project!
+project_one_description: Todos aquellos que asistimos y compartimos nuestros conocimientos somos el club de algoritmia, un grupo de estudiantes y profesores que a raíz de la programación competitiva, buscamos fomentar el interés en la programación para resolver problemas
 project_one_url: "/quienesSomos/"
 project_one_icon: ../Club-Algoritmia-CUCEI/assets/images/logo.png
 
